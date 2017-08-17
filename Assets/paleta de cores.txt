@@ -1,0 +1,9 @@
+#050517 (Rich black)
+
+#FF5353 Red orange
+
+#EFC88B Pale gold
+
+#F4E3B2 Wheat
+
+#D3D5D7 Light Gray
